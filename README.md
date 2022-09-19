@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">Computer Systems Engineering Student</h3>
-<style> 
-background-img: url("https://github.com/Aletru/Aletru/blob/main/icon.gif"); 
-</style>
+<img src"https://github.com/Aletru/Aletru/blob/main/icon.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_c4ptainx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_c4ptainx" height="30" width="40" /></a>
