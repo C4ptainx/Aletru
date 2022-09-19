@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">Computer Systems Engineering Student</h3>
 <style> 
-background: url("icon.gif"); 
+background-img: url("https://github.com/Aletru/Aletru/blob/main/icon.gif"); 
 </style>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
