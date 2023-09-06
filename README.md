@@ -2,7 +2,7 @@
 <img align="center" height="150" src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif"/>
 <h3 align="center">Computer Systems Engineering Student</h3>
 <p><li> I am constantly learning </li></p>
-<p><li>I am interested in backend technologies, application development and cybersecurity.</li></p>
+<p><li>I am interested in backend technologies, application development and cybersecurity. 💻 </li></p>
 
 ## 📱 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-trujano-chavez)
