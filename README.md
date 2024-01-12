@@ -9,25 +9,31 @@
 
 
 
-## 🛠 Languages and tools
+## 🛠 Skills
  <div>
+  <p> -Programming languages </p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>&nbsp;
+
+  <p> -Fronted Development </p>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css3" **alt="css3" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html5" **alt="html5" width="50" height="50"/>&nbsp;
+  
+  <p> -Backend Development </p>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>&nbsp;
+  
+  <p> -Database </p>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  
+  <p> -Tools </p>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>&nbsp;
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="Postman" width="50" height="50"/>&nbsp;
  </div>
 
-##  
-<div align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c4ptainx&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="c4ptainx" /></p>
+##  &nbsp; 
+<p align="center">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c4ptainx&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="c4ptainx" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=c4ptainx&show_icons=true&locale=en&theme=cobalt" alt="c4ptainx" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c4ptainx&show_icons=true&locale=en&theme=cobalt" alt="c4ptainx" /></p>
-
-</div>
- 
+</p>
  
